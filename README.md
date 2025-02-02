@@ -22,13 +22,13 @@ This is a collection of scripts designed to streamline workflows in **Glyphs App
    - Useful for **variable font development**.
    
 ### Bracket Layers: New Tab with Bracket Layer Glyphs (newTabWithBracketLayerGlyphs.py)
-   - Opens a **new tab** in Glyphs with all glyphs that contain **bracket layers**.
+   - Opens a **new tab** in Glyphs with all glyphs that contain **bracket layers**. 
    - Helps **preview alternate layers quickly**.
 
 
 ### Exports: Trial Font Maker (trialFontMaker.py)
    - Helps generate **trial fonts** by applying specific limitations.
-   - Could include **removing glyphs, adding watermarks, or limiting character sets**.
+   - Includes **duplicating file, prefix to the font family name and instances, removing all features, keeping only a selected set of glyphs**.
 
 
 ## Installation & Usage
