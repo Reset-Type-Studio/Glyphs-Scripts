@@ -5,13 +5,11 @@ This is a collection of scripts designed to streamline workflows in **Glyphs App
 
 ## Available Scripts:
 
-### Transformations: Move in All Masters (moveInaAllMasters.py)
-   - Moves the selected glyphs in all masters, both **horizontally and vertically**.
+### Transformations: Transformations in All Masters (moveInaAllMasters.py)
+   - Similar to the **Transformations panel** but for all masters. Works within a glyph, or in several selected glyphs.
    - Features:
      - GUI for easy input.
-     - Allows precise X/Y movement.
-     - Status message feedback.
-
+     - Shif X, Y, Scale, Rotate, Slant
 
 ### Bracket Layers: Create Suffixed Glyphs for Alternate Glyphs Method (createSuffixedGlyphsForAlternateGlyphsMethod.py)
    - Automates the creation of suffixed glyphs, their components, custom parameters and feature code for the Alternate Glyphs method found in **Switching Shapes** tutorial.
