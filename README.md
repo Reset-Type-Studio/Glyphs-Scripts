@@ -55,6 +55,11 @@
 - **🔘 Node Duplicator (Current Layer)**
   - Duplicates selected nodes only in the current layer.
 
+### **Guides**
+
+- **📐 Perpendicular Guides**
+  - Adds perpendicular guides to selected nodes and center guides to selected components.
+
 ### **Transformations**
 
 - **🛠️ Transformations Tool (for All Masters)**
