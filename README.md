@@ -21,7 +21,7 @@
 ### **Components**
 
 - **🔁 Component Swapper (all masters)**
-  - Assigns values to smart components in selected glyphs for all axes and masters.
+  - Swaps a component in selected glyphs, works in all masters.
     
 - **⛓️‍💥 Decompose Specific Components (all masters)**
   - Decomposes only the specified component (and nested components) in all masters.
