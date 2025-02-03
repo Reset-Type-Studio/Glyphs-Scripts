@@ -9,7 +9,8 @@
 ### **Bracket Layers**
 
 - **💫 Bracket Layers → Alternate Glyphs (Switching Shapes Method)**
-  - Automates the creation of suffixed glyphs, their components, custom parameters, and feature code for the *Alternate Glyphs* method found in the *Switching Shapes* tutorial: https://glyphsapp.com/learn/switching-shapes
+  - The Bracket Layer Method does not work in Illustrator and other Adobe apps, to make it work, you need to use the Alternate Glyphs Method instead.
+  - This script automates the creation of suffixed glyphs, their components, custom parameters, and feature code for the *Alternate Glyphs* method found in the *Switching Shapes* tutorial: https://glyphsapp.com/learn/switching-shapes
 
 - **🖥️ New Tab with Glyphs containing Bracket Layers**
   - Opens a new tab in Glyphs containing bracket-layered glyphs, followed by glyphs that use these as components.
