@@ -42,12 +42,6 @@
 - **📊 Copy Axis Coordinates to Location (Custom Parameter)**
   - Applies the "Axis Location" custom parameter to each master and export instance.
   - Automatically detects variable font exports (skipping them if needed).
-    
-### **Font-Info**
-
-- **📊 Copy Axis Coordinates to Location (Custom Parameter)**
-  - Applies the "Axis Location" custom parameter to each master and export instance.
-  - Automatically detects variable font exports (skipping them if needed).
 
 ### **KernOn**
 - **🧨 Delete KernOn**
