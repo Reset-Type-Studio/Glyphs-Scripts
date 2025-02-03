@@ -1,14 +1,14 @@
 (Under construction)
 
+<br>
 ## Glyphs Scripts Collection from Reset Type Studio 🧑🏻‍💻
 
 This is a collection of scripts designed to streamline workflows in **Glyphs App**. These scripts help with automating repetitive tasks, managing bracket layers, and handling glyph modifications.
 
+<br>
+## **Available Scripts:**
 
-
-
-## Available Scripts:
-
+<br>
 ### **Bracket Layers**
 
 - **💫 Bracket Layers → Alternate Glyphs (Switching Shapes Method)**
