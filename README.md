@@ -18,14 +18,31 @@
 - **📄 Report Glyphs containing Bracket Layers**
   - Lists glyphs with bracket layers and their affected glyphs (including nested components).
 
-### **Exports**
+### **Components**
 
-- **🎁 Trial Font Maker**
-  - Creates trial versions of fonts by working on a duplicate of the .glyphs file. 
-  - Adds a prefix to the font family and instances.
-  - Re-makes all OpenType features and
-  - Keeps only selected glyphs before exporting them.
+- **🔁 Component Swapper (all masters)**
+  - Assigns values to smart components in selected glyphs for all axes and masters.
+    
+- **⛓️‍💥 Decompose Specific Components (all masters)**
+  - Decomposes only the specified component (and nested components) in all masters.
 
+### **Smart Components**
+
+- **🔢 Values for Smart Components (all masters)**
+  - Swaps a component in selected glyphs, works in all masters.
+    
+- **🧠 Selected to Smart Components (all masters)**
+  - Converts selected glyphs into smart components based on font master axes.
+ 
+- **🤯 Smart to Normal Components (all masters)**
+  - Converts selected smart components back to normal components.
+
+### **Font-Info**
+
+- **📊 Copy Axis Coordinates to Location (Custom Parameter)**
+  - Applies the "Axis Location" custom parameter to each master and export instance.
+  - Automatically detects variable font exports (skipping them if needed).
+    
 ### **Font-Info**
 
 - **📊 Copy Axis Coordinates to Location (Custom Parameter)**
@@ -58,6 +75,10 @@
 ## Contributions & Feedback
 - Found a bug? Want to add a new feature? 
 - Feel free to contribute improvements via Pull Requests.
+
+## Acknowledgements
+- Thanks to Peter Nowel for teaching me Python for Glyphs 
+- In some scripts I used the help of IA, specially for Vanilla stuff (sorry Peter)
 
 ## License
 Copyright 2025 Fernando Díaz & Reset Type Studio.
