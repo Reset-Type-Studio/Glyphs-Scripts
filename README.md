@@ -5,29 +5,11 @@ This is a collection of scripts designed to streamline workflows in **Glyphs App
 
 ## Available Scripts:
 
-### Transformations: Transformations in All Masters (moveInaAllMasters.py)
-   - Similar to the **Transformations panel** but for all masters. Works within a glyph, or in several selected glyphs.
+### Script 1
+   - Bla **Transformations panel** 
    - Features:
      - GUI for easy input.
      - Shif X, Y, Scale, Rotate, Slant
-
-### Bracket Layers: Create Suffixed Glyphs for Alternate Glyphs Method (createSuffixedGlyphsForAlternateGlyphsMethod.py)
-   - Automates the creation of suffixed glyphs, their components, custom parameters and feature code for the Alternate Glyphs method found in **Switching Shapes** tutorial.
-   - Useful for **variable font development**.
-     
-### Bracket Layers: Check Amount of Glyphs with Bracket Layers (checkAmountOfGlyphsWithBracketLayers.py)
-   - Scans the font and reports how many **glyphs have bracket layers**.
-   - Useful for **variable font development**.
-   
-### Bracket Layers: New Tab with Bracket Layer Glyphs (newTabWithBracketLayerGlyphs.py)
-   - Opens a **new tab** in Glyphs with all glyphs that contain **bracket layers**. 
-   - Helps **preview alternate layers quickly**.
-
-
-### Exports: Trial Font Maker (trialFontMaker.py)
-   - Helps generate **trial fonts** by applying specific limitations.
-   - Includes **duplicating file, prefix to the font family name and instances, removing all features, keeping only a selected set of glyphs**.
-
 
 ## Installation & Usage
 1. Download or clone this repository.
