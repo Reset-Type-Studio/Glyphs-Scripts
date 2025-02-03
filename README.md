@@ -1,8 +1,6 @@
-(Under construction)
-
 # Glyphs Scripts Collection by Reset Type Studio 🧑🏻‍💻
 
-This is a collection of scripts designed to streamline workflows in **Glyphs App**. 
+(Under construction) This is a collection of scripts designed to streamline workflows in **Glyphs App**. 
 
   
 ## **Available Scripts:**
