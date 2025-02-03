@@ -59,6 +59,11 @@
 
 - **🛠️ Transformations Tool (for All Masters)**
   - Apply transformations (scaling, rotation, slanting, translation) across all masters in a font.
+ 
+### **Exports**
+
+- **🎁 Trial Font Maker**
+  - This script creates the Trial versions of fonts. It works on a duplicate of the glyphs file, adds prefix to the font family name and instances, it removes all features and keeps only a selected set of glyphs before exporting them. 
 
 ---
 
