@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# MenuTitle: Copy Axis Coordinates to Location (Custom Parameter)
+# MenuTitle: 📊 Copy Axis Coordinates to Location (Custom Parameter)
 # Version: 1.01
 # Description: Applies the "Axis Location" values as custom parameters to each master and instances.
 # Credits: Developed by Fernando Díaz (Reset Type Studio) with help from AI.
