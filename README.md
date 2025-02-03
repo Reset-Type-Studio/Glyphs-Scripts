@@ -2,6 +2,7 @@
 
 (Under construction) This is a collection of scripts designed to streamline workflows in **Glyphs App**. 
 
+---
   
 ## **Available Scripts:**
  
@@ -15,9 +16,6 @@
 
 - **📄 Report Glyphs containing Bracket Layers**
   - Lists glyphs with bracket layers and their affected glyphs (including nested components).
- 
- 
----
 
 ### **Exports**
 
@@ -27,21 +25,15 @@
   - Re-makes all OpenType features and
   - Keeps only selected glyphs before exporting them.
 
----
-
 ### **Font-Info**
 
 - **📊 Copy Axis Coordinates to Location (Custom Parameter)**
   - Applies the "Axis Location" custom parameter to each master and export instance.
   - Automatically detects variable font exports (skipping them if needed).
 
----
-
 ### **KernOn**
 - **🧨 Delete KernOn**
   - Clears all kerning pairs and resets kerning groups for all masters in Glyphs.
-
----
 
 ### **Paths**
 
@@ -51,8 +43,6 @@
 - **🔘 Node Duplicator (Current Layer)**
   - Duplicates selected nodes only in the current layer.
 
----
-
 ### **Transformations**
 
 - **🛠️ Transformations Tool (for All Masters)**
@@ -60,19 +50,13 @@
 
 ---
 
-
-
 ## Installation & Usage
 1. Download or clone this repository.
 2. Place the scripts in the Glyphs **Scripts** folder: - `~/Library/Application Support/Glyphs/Scripts/`
 
----
-
 ## Contributions & Feedback
 - Found a bug? Want to add a new feature? 
 - Feel free to contribute improvements via Pull Requests.
-
----
 
 ## License
 Copyright 2025 Fernando Díaz & Reset Type Studio.
