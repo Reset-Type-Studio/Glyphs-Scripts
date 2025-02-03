@@ -2,7 +2,7 @@
 
 # Glyphs Scripts Collection by Reset Type Studio 🧑🏻‍💻
 
-This is a collection of scripts designed to streamline workflows in **Glyphs App**. These scripts help with automating repetitive tasks, managing bracket layers, and handling glyph modifications.
+This is a collection of scripts designed to streamline workflows in **Glyphs App**. 
 
   
 ## **Available Scripts:**
