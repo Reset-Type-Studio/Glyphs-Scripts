@@ -77,7 +77,7 @@
 - Feel free to contribute improvements via Pull Requests.
 
 ## Acknowledgements
-- Thanks to Peter Nowel for teaching me Python for Glyphs 
+- Thanks to Peter Nowell for teaching me Python for Glyphs 
 - In some scripts I used the help of IA, specially for Vanilla stuff (sorry Peter)
 
 ## License
