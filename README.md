@@ -29,7 +29,7 @@
 ### **Smart Components**
 
 - **🔢 Values for Smart Components (all masters)**
-  - Swaps a component in selected glyphs, works in all masters.
+  - Assigns values to smart components in selected glyphs for all axes and masters.
     
 - **🧠 Selected to Smart Components (all masters)**
   - Converts selected glyphs into smart components based on font master axes.
