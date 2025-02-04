@@ -1,6 +1,6 @@
 # Glyphs Scripts Collection by Reset Type Studio 🧑🏻‍💻
 
-(Under construction) This is a collection of scripts designed to streamline workflows in **Glyphs App**. 
+This is a collection of scripts designed to streamline workflows in **Glyphs App**. 
 
 ---
   
