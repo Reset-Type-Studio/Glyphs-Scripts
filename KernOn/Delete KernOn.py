@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
 # MenuTitle: 🧨 Delete KernOn
-# Version: 1.0
+# -*- coding: utf-8 -*-
+# Version: 1.1
 # Description: This script clears all kerning pairs and resets kerning groups in Glyphs.
 # Author: Developed by Fernando Díaz (Reset Type Studio) with help from AI.
 
