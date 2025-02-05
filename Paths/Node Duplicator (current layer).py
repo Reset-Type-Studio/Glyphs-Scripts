@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
 # MenuTitle: 🔘 Node Duplicator (Current Layer)
-# Version: 1.01
+# -*- coding: utf-8 -*-
+# Version: 1.02
 # Description: Duplicates selected nodes in Current Layer
 # Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
 

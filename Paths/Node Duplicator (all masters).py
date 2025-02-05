@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
 # MenuTitle: 🔘 Node Duplicator (all Masters)
-# Version: 1.01
+# -*- coding: utf-8 -*-
+# Version: 1.02
 # Description: Duplicates selected nodes in all Masters
 # Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
 
