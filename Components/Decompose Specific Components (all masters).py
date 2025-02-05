@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
 # MenuTitle: ⛓️‍💥 Decompose Specific Components (all masters)
-# Version: 1.02
+# -*- coding: utf-8 -*-
+# Version: 1.03
 # Description: Decomposes only the specified component (and nested components) in all masters.
 # Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
 
