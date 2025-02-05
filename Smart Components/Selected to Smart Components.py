@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
 # MenuTitle: 🧠 Selected to Smart Components (all masters)
-# Version: 1.01
+# -*- coding: utf-8 -*-
+# Version: 1.02
 # Description: Converts selected glyphs into smart components based on font master axes.
 # Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
 

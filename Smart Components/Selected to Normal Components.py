@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
 # MenuTitle: 🤯 Smart to Normal Components (all masters)
-# Version: 1.1
+# -*- coding: utf-8 -*-
+# Version: 1.2
 # Description: Converts selected smart components back to normal components.
 # Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
 

@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
 # MenuTitle: 🔢 Values for Smart Components (all masters)
-# Version: 1.02
+# -*- coding: utf-8 -*-
+# Version: 1.03
 # Description: Assigns values to smart components in selected glyphs for all axes and masters.
 # Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
 
