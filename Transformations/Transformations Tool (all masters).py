@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
 # MenuTitle: 🛠️ Transformations Tool (for All Masters)
-# Version: 1.02
+# -*- coding: utf-8 -*-
+# Version: 1.03
 # Description: Transformations tools but for all Master
 # Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
 
