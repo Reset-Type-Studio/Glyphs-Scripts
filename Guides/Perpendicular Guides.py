@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
 # MenuTitle: 📐 Perpendicular Guides
-# Version: 1.03
+# -*- coding: utf-8 -*-
+# Version: 1.04
 # Description: Adds perpendicular guides to selected nodes and center guides to selected components.
 # Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
 
