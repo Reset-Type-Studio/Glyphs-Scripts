@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
 # MenuTitle: 📄 Report Glyphs containing Bracket Layers
-# Version: 1.02
+# -*- coding: utf-8 -*-
+# Version: 1.03
 # Description: Lists glyphs with bracket layers and all affected glyphs, including nested components, in a scrollable Vanilla window with optimized performance.
 # Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
 

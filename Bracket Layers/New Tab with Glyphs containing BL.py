@@ -1,6 +1,6 @@
-# -*- coding: utf-8 -*-
 # MenuTitle: 🖥️ New Tab with Glyphs containing Bracket Layers
-# Version: 1.02
+# -*- coding: utf-8 -*-
+# Version: 1.03
 # Description: Opens a new tab with glyphs containing bracket layers, followed by glyphs using these as components.
 # Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
 
