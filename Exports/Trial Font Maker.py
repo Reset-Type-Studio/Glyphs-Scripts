@@ -1,8 +1,8 @@
 # MenuTitle: 🎁 Trial Font Maker
 # -*- coding: utf-8 -*-
-# Version: 1.03
+# Version: 1.4
 # Description: This script creates the Trial versions of fonts. It works on a duplicate of the glyphs file, adds prefix to the font family name and instances, it removes all features and keeps only a selected set of glyphs before exporting them. 
-# Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 import vanilla
 import os

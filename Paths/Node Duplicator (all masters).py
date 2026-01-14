@@ -1,8 +1,8 @@
 # MenuTitle: 🔘 Node Duplicator (all Masters)
 # -*- coding: utf-8 -*-
-# Version: 1.02
+# Version: 1.3
 # Description: Duplicates selected nodes in all Masters
-# Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 # Get the active font
 thisFont = Glyphs.font  

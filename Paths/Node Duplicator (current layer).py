@@ -1,8 +1,8 @@
 # MenuTitle: 🔘 Node Duplicator (Current Layer)
 # -*- coding: utf-8 -*-
-# Version: 1.02
+# Version: 1.3
 # Description: Duplicates selected nodes in Current Layer
-# Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 # Get the active font and layer
 thisFont = Glyphs.font

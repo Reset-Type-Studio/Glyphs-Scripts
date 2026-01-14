@@ -1,8 +1,8 @@
 # MenuTitle: 💫 Bracket Layers → Alternate Glyphs (Switching Shapes Method)
 # -*- coding: utf-8 -*-
-# Version: 1.024
+# Version: 1.3
 # Description: Automates the creation of suffixed glyphs, their components, custom parameters, and feature code for the Alternate Glyphs method found in the Switching Shapes tutorial.
-# Author: Developed by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 from GlyphsApp import *
 import vanilla

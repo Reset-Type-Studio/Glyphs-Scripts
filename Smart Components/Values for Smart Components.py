@@ -1,8 +1,8 @@
 # MenuTitle: 🔢 Values for Smart Components (all masters)
 # -*- coding: utf-8 -*-
-# Version: 1.03
+# Version: 1.4
 # Description: Assigns values to smart components in selected glyphs for all axes and masters.
-# Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 from GlyphsApp import Glyphs, GSSmartComponentAxis
 import vanilla

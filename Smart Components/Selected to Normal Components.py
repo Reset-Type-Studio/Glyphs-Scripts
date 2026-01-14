@@ -1,8 +1,8 @@
 # MenuTitle: 🤯 Smart to Normal Components (all masters)
 # -*- coding: utf-8 -*-
-# Version: 1.2
+# Version: 1.3
 # Description: Converts selected smart components back to normal components.
-# Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 from GlyphsApp import Glyphs
 

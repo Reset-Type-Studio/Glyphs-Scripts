@@ -1,8 +1,8 @@
 # MenuTitle: 🛠️ Transformations Tool (for All Masters)
 # -*- coding: utf-8 -*-
-# Version: 1.03
+# Version: 1.4
 # Description: Transformations tools but for all Master
-# Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 from GlyphsApp import *
 import vanilla

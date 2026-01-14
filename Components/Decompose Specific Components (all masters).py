@@ -1,8 +1,8 @@
 # MenuTitle: ⛓️‍💥 Decompose Specific Components (all masters)
 # -*- coding: utf-8 -*-
-# Version: 1.03
+# Version: 1.4
 # Description: Decomposes only the specified component (and nested components) in all masters.
-# Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 from GlyphsApp import Glyphs
 from vanilla import Window, EditText, Button, TextBox

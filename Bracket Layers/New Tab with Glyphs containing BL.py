@@ -1,8 +1,8 @@
 # MenuTitle: 🖥️ New Tab with Glyphs containing Bracket Layers
 # -*- coding: utf-8 -*-
-# Version: 1.03
+# Version: 1.4
 # Description: Opens a new tab with glyphs containing bracket layers, followed by glyphs using these as components.
-# Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 from GlyphsApp import *
 from collections import deque, defaultdict

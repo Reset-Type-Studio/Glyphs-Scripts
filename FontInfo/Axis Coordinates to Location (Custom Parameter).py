@@ -1,8 +1,8 @@
 # MenuTitle: 📊 Copy Axis Coordinates to Location (Custom Parameter)
 # -*- coding: utf-8 -*-
-# Version: 1.02
+# Version: 1.3
 # Description: Applies the "Axis Location" values as custom parameters to each master and instances.
-# Credits: Developed by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 from GlyphsApp import Glyphs
 

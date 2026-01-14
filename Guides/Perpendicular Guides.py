@@ -1,8 +1,8 @@
 # MenuTitle: 📐 Perpendicular Guides
 # -*- coding: utf-8 -*-
-# Version: 1.04
+# Version: 1.5
 # Description: Adds perpendicular guides to selected nodes and center guides to selected components.
-# Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 from GlyphsApp import GSGuideLine
 from math import atan2, degrees, radians

@@ -1,8 +1,8 @@
 # MenuTitle: 🧠 Selected to Smart Components (all masters)
 # -*- coding: utf-8 -*-
-# Version: 1.02
+# Version: 1.3
 # Description: Converts selected glyphs into smart components based on font master axes.
-# Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 from GlyphsApp import Glyphs, GSSmartComponentAxis
 

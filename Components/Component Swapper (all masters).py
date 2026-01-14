@@ -1,8 +1,8 @@
 # MenuTitle: 🔁 Component Swapper (all masters)
 # -*- coding: utf-8 -*-
-# Version: 1.01
+# Version: 1.2
 # Description: Swaps a component in selected glyphs, works in all masters.
-# Author: Script by Fernando Díaz (Reset Type Studio) with help from AI.
+# Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 from GlyphsApp import Glyphs
 from vanilla import Window, EditText, Button
