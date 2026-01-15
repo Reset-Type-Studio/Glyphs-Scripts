@@ -37,7 +37,7 @@ This is a collection of scripts designed to streamline workflows in **Glyphs App
   - Applies the "Axis Location" custom parameter to each master and export instance.
   - Automatically detects variable font exports (skipping them if needed).
 
-- **Set TTFAutohint Options Automatically**
+- **🖥️ Set TTFAutohint Options Automatically**
   - Adds “TTFAutohint options” parameter for every export, calculating every "Fallback Stem Width" from "Stems".
 
 ### **Guides**
