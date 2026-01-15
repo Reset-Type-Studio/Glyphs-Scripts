@@ -1,4 +1,4 @@
-# MenuTitle: Compatibility Check (Node Report)
+# MenuTitle: ⚖️ Compatibility Check (Node Report)
 # -*- coding: utf-8 -*-
 # Version: 1.1
 # Description: Reports node and handle counts per master for selected or active glyphs. Highlights master incompatibilities and node mismatches.

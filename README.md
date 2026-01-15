@@ -26,6 +26,51 @@ This is a collection of scripts designed to streamline workflows in **Glyphs App
 - **⛓️‍💥 Decompose Specific Components (all masters)**
   - Decomposes only the specified component (and nested components) in all masters.
 
+### **Exports**
+
+- **🎁 Trial Font Maker**
+  - This script creates the Trial versions of fonts. It works on a duplicate of the glyphs file, adds prefix to the font family name and instances, it removes all features and keeps only a selected set of glyphs before exporting them. 
+
+### **Font-Info**
+
+- **📊 Copy Axis Coordinates to Location (Custom Parameter)**
+  - Applies the "Axis Location" custom parameter to each master and export instance.
+  - Automatically detects variable font exports (skipping them if needed).
+
+- **Set TTFAutohint Options Automatically**
+  - Adds “TTFAutohint options” parameter for every export, calculating every "Fallback Stem Width" from "Stems".
+
+### **Guides**
+
+- **📐 Perpendicular Guides**
+  - Adds perpendicular guides to selected nodes and center guides to selected components.
+
+### **KernOn**
+- **🧨 Delete KernOn / KernOff**
+  - Clears all kerning pairs and resets kerning groups for all masters in Glyphs.
+
+### **Layers**
+- **🕳️ Delete 'empty' Layers**
+  - Deletes '(empty)' layers that might brake other scripts.
+
+### **Paths**
+
+- **🎚️ Change Weight (Boldify)**
+  - Changes weight via Offset Curve  while keeping bounding box.
+  - Optionally moderates width growth, sidebearings, anchors, vertical metrics snapping.
+
+- **⚖️ Compatibility Check (Node Report)**
+  - Reports node and handle counts per master. Highlights master incompatibilities and node mismatches.
+
+- **🔘 Node Duplicator (All Masters)**
+  - Duplicates selected nodes in all masters.
+
+- **🔘 Node Duplicator (Current Layer)**
+  - Duplicates selected nodes only in the current layer.
+
+- **🔘⭕️ Node Duplicator + 2 Handles (All Masters)**
+  - Duplicates selected nodes and adds overlaped handles without altering the shape in all Masters.
+
 ### **Smart Components**
 
 - **🔢 Values for Smart Components (all masters)**
@@ -37,39 +82,11 @@ This is a collection of scripts designed to streamline workflows in **Glyphs App
 - **🤯 Smart to Normal Components (all masters)**
   - Converts selected smart components back to normal components.
 
-### **Font-Info**
-
-- **📊 Copy Axis Coordinates to Location (Custom Parameter)**
-  - Applies the "Axis Location" custom parameter to each master and export instance.
-  - Automatically detects variable font exports (skipping them if needed).
-
-### **KernOn**
-- **🧨 Delete KernOn**
-  - Clears all kerning pairs and resets kerning groups for all masters in Glyphs.
-
-### **Paths**
-
-- **🔘 Node Duplicator (All Masters)**
-  - Duplicates selected nodes in all masters.
-
-- **🔘 Node Duplicator (Current Layer)**
-  - Duplicates selected nodes only in the current layer.
-
-### **Guides**
-
-- **📐 Perpendicular Guides**
-  - Adds perpendicular guides to selected nodes and center guides to selected components.
-
 ### **Transformations**
 
 - **🛠️ Transformations Tool (for All Masters)**
   - Apply transformations (scaling, rotation, slanting, translation) across all masters in a font.
  
-### **Exports**
-
-- **🎁 Trial Font Maker**
-  - This script creates the Trial versions of fonts. It works on a duplicate of the glyphs file, adds prefix to the font family name and instances, it removes all features and keeps only a selected set of glyphs before exporting them. 
-
 ---
 
 ## Installation & Usage

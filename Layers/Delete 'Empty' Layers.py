@@ -1,7 +1,7 @@
-# MenuTitle: 🕳️ Delete (empty) Layers
+# MenuTitle: 🕳️ Delete '(empty)' Layers
 # -*- coding: utf-8 -*-
 # Version: 1.2
-# Description: Deletes "(empty)"" layers that might brake other scripts
+# Description: Deletes '(empty)' layers that might brake other scripts
 # Author: Fernando Díaz (Reset Type Studio) with help from AI.
 
 from vanilla import Window, TextBox
